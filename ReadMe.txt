@@ -1,0 +1,5 @@
+Use WholeSystemFolder if you want the gun directly.
+
+-Paste the WholeSystemFolder.rbxm in to roblox
+-You get everything editable in "Settings" Module Script
+-Enjoy
